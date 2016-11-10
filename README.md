@@ -10,7 +10,7 @@ It represents a concept of building many simple tools instead of just building o
 * It is ease to learn how to use
 
 ## Why Milk?
-According to [wikipedia](https://en.wikipedia.org/wiki/Milk), Milk is the primary source of nutrition. If we need milk to grow, our software needs too. Ok, it was not funny. Actually, Milk is just the translation from portuguese of my middle name *Leite* to english.
+According to [wikipedia](https://en.wikipedia.org/wiki/Milk), Milk is the primary source of nutrition. If we need milk to grow, our software needs too. Ok, it was not cool.
 
 ## Rules
 There is no rules. Do your best.
